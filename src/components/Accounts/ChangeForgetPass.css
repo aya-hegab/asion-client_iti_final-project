@@ -1,0 +1,43 @@
+.change-password-container {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .change-password-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .change-password-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .change-password-container form label {
+    margin-bottom: 8px;
+  }
+  
+  .change-password-container form input {
+    margin-bottom: 16px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .change-password-container form button {
+    padding: 8px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .change-password-container form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 8px;
+  }

@@ -1,0 +1,35 @@
+
+  
+
+  .containerr {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 90%;
+    background-color: #fff;
+  }
+  .login_btn{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+  }
+  .login_btn p{
+    line-height: 20px;
+  
+  }
+
+  .all-register{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+  }
+
+  .submitbtn{
+    display: flex;
+    justify-content: center;
+  }
+
+  

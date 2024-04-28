@@ -1,0 +1,16 @@
+.search-button {
+    background-color: #ca1515; 
+    color: #ffffff; 
+    border: none; 
+    padding:1px 4px; 
+    margin-left: 2px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .search-button:hover {
+    background-color: #ffffff;
+    color: #ca1515; 
+    border: 1px solid #ca1515;
+  }
+  

@@ -1,0 +1,79 @@
+
+
+.sidebar-btn {
+  display: block;
+  width: 100%;
+  padding: 10px 15px;
+  text-align: left;
+}
+
+.sidebar-btn:hover {
+  background-color: #f0f0f0;
+}
+.align-text-start {
+  margin-left: 5px; /* Add space between icon and text */
+  vertical-align: middle;
+}
+
+h5{
+  margin-bottom: 5px;
+  font-size: 20px;
+ 
+  
+
+}
+h6{
+  font-size: 15px;
+
+}
+
+.card1{
+    
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+ 
+}
+
+/*
+.btns{
+  display: flex;
+ justify-content: space-between;
+  flex-direction: row;
+}
+.btns .btn1{
+  cursor: pointer;
+  margin: 20px;
+  color: #007bff;
+ text-decoration: underline;
+}
+.btns .btn2{
+  cursor: pointer;
+  color: red;
+ text-decoration: underline;
+}
+  
+  
+.header__right__auth__link {
+  color: black;
+  text-decoration: none;
+
+  font-weight: 600;
+  font-size: 22px;;
+  padding-left: 15px;
+}
+  
+.header__right__auth__link:hover {
+  color: #555;
+}
+
+
+.mar{
+  margin: 20px auto;
+} */
